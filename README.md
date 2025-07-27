@@ -65,7 +65,7 @@ Our proprietary climate risk model evaluates companies across multiple dimension
 Python 3.8+
 pip (Python package manager)
 
-## Quick Start
+Quick Start
 # Clone the repository
 git clone https://github.com/JoshnaPR/climate-intelligence-platform.git
 cd climate-intelligence-platform
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 # Run the dashboard
 streamlit run dashboard.py
 
-## Usage
+Usage
 Dashboard Navigation
 
 1. Sector Filtering - Focus on specific industries
@@ -85,13 +85,13 @@ Dashboard Navigation
 4. Time Series Trends - View risk evolution over time
 5. Data Export - Download analysis results
 
-## Key Metrics
+Key Metrics
 Composite Risk Score: 0-100 overall climate risk assessment
 Stranded Asset Risk: Probability of asset value impairment
 Supply Chain Risk: Climate vulnerability in business networks
 Regulatory Risk: Policy and compliance exposure
 
-## Results & Analysis
+Results & Analysis
 Sector Risk Rankings
 
 Consumer Defensive: 45.6 avg risk
@@ -100,14 +100,14 @@ Financial Services: 41.9 avg risk
 Healthcare: 20.6 avg risk
 Technology: 10.8 avg risk
 
-## Key Findings
+Key Findings
 
 16.7% of analyzed companies classified as high risk
 Technology companies demonstrate superior climate resilience
 ESG scores strongly correlate with lower climate risk
 Market capitalization provides resilience advantages
 
-## Business Applications
+Business Applications
 
 Investment Management
 
@@ -123,7 +123,7 @@ Stress testing frameworks
 Regulatory compliance support
 Stakeholder reporting
 
-## Future Enhancements
+Future Enhancements
 
 Real-time API Integration - Live climate data feeds
 Machine Learning Models - Predictive risk forecasting
