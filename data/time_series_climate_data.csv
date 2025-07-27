@@ -1,0 +1,241 @@
+date,symbol,company_name,sector,risk_score
+2023-01-31,AAPL,Apple Inc.,Technology,12.8
+2023-02-28,AAPL,Apple Inc.,Technology,15.5
+2023-03-31,AAPL,Apple Inc.,Technology,14.9
+2023-04-30,AAPL,Apple Inc.,Technology,14.8
+2023-05-31,AAPL,Apple Inc.,Technology,10.6
+2023-06-30,AAPL,Apple Inc.,Technology,11.6
+2023-07-31,AAPL,Apple Inc.,Technology,8.6
+2023-08-31,AAPL,Apple Inc.,Technology,9.7
+2023-09-30,AAPL,Apple Inc.,Technology,7.0
+2023-10-31,AAPL,Apple Inc.,Technology,7.9
+2023-11-30,AAPL,Apple Inc.,Technology,14.5
+2023-12-31,AAPL,Apple Inc.,Technology,13.1
+2024-01-31,AAPL,Apple Inc.,Technology,14.4
+2024-02-29,AAPL,Apple Inc.,Technology,13.4
+2024-03-31,AAPL,Apple Inc.,Technology,20.2
+2024-04-30,AAPL,Apple Inc.,Technology,19.0
+2024-05-31,AAPL,Apple Inc.,Technology,13.4
+2024-06-30,AAPL,Apple Inc.,Technology,15.5
+2024-07-31,AAPL,Apple Inc.,Technology,14.9
+2024-08-31,AAPL,Apple Inc.,Technology,15.8
+2024-09-30,AAPL,Apple Inc.,Technology,15.8
+2024-10-31,AAPL,Apple Inc.,Technology,14.4
+2024-11-30,AAPL,Apple Inc.,Technology,14.6
+2024-12-31,AAPL,Apple Inc.,Technology,16.9
+2023-01-31,MSFT,Microsoft Corporation,Technology,7.4
+2023-02-28,MSFT,Microsoft Corporation,Technology,11.1
+2023-03-31,MSFT,Microsoft Corporation,Technology,15.0
+2023-04-30,MSFT,Microsoft Corporation,Technology,13.1
+2023-05-31,MSFT,Microsoft Corporation,Technology,9.0
+2023-06-30,MSFT,Microsoft Corporation,Technology,10.7
+2023-07-31,MSFT,Microsoft Corporation,Technology,10.3
+2023-08-31,MSFT,Microsoft Corporation,Technology,7.3
+2023-09-30,MSFT,Microsoft Corporation,Technology,11.2
+2023-10-31,MSFT,Microsoft Corporation,Technology,12.7
+2023-11-30,MSFT,Microsoft Corporation,Technology,11.6
+2023-12-31,MSFT,Microsoft Corporation,Technology,10.6
+2024-01-31,MSFT,Microsoft Corporation,Technology,16.4
+2024-02-29,MSFT,Microsoft Corporation,Technology,16.1
+2024-03-31,MSFT,Microsoft Corporation,Technology,15.5
+2024-04-30,MSFT,Microsoft Corporation,Technology,15.3
+2024-05-31,MSFT,Microsoft Corporation,Technology,14.9
+2024-06-30,MSFT,Microsoft Corporation,Technology,12.0
+2024-07-31,MSFT,Microsoft Corporation,Technology,10.8
+2024-08-31,MSFT,Microsoft Corporation,Technology,12.4
+2024-09-30,MSFT,Microsoft Corporation,Technology,11.0
+2024-10-31,MSFT,Microsoft Corporation,Technology,14.6
+2024-11-30,MSFT,Microsoft Corporation,Technology,12.6
+2024-12-31,MSFT,Microsoft Corporation,Technology,13.0
+2023-01-31,GOOGL,Alphabet Inc.,Communication Services,11.6
+2023-02-28,GOOGL,Alphabet Inc.,Communication Services,10.5
+2023-03-31,GOOGL,Alphabet Inc.,Communication Services,11.8
+2023-04-30,GOOGL,Alphabet Inc.,Communication Services,13.2
+2023-05-31,GOOGL,Alphabet Inc.,Communication Services,11.6
+2023-06-30,GOOGL,Alphabet Inc.,Communication Services,12.2
+2023-07-31,GOOGL,Alphabet Inc.,Communication Services,7.0
+2023-08-31,GOOGL,Alphabet Inc.,Communication Services,9.6
+2023-09-30,GOOGL,Alphabet Inc.,Communication Services,8.1
+2023-10-31,GOOGL,Alphabet Inc.,Communication Services,7.4
+2023-11-30,GOOGL,Alphabet Inc.,Communication Services,6.6
+2023-12-31,GOOGL,Alphabet Inc.,Communication Services,8.3
+2024-01-31,GOOGL,Alphabet Inc.,Communication Services,12.1
+2024-02-29,GOOGL,Alphabet Inc.,Communication Services,17.1
+2024-03-31,GOOGL,Alphabet Inc.,Communication Services,15.3
+2024-04-30,GOOGL,Alphabet Inc.,Communication Services,15.5
+2024-05-31,GOOGL,Alphabet Inc.,Communication Services,19.1
+2024-06-30,GOOGL,Alphabet Inc.,Communication Services,11.1
+2024-07-31,GOOGL,Alphabet Inc.,Communication Services,11.5
+2024-08-31,GOOGL,Alphabet Inc.,Communication Services,15.8
+2024-09-30,GOOGL,Alphabet Inc.,Communication Services,9.9
+2024-10-31,GOOGL,Alphabet Inc.,Communication Services,12.8
+2024-11-30,GOOGL,Alphabet Inc.,Communication Services,11.9
+2024-12-31,GOOGL,Alphabet Inc.,Communication Services,11.7
+2023-01-31,NVDA,NVIDIA Corporation,Technology,13.0
+2023-02-28,NVDA,NVIDIA Corporation,Technology,13.3
+2023-03-31,NVDA,NVIDIA Corporation,Technology,14.1
+2023-04-30,NVDA,NVIDIA Corporation,Technology,16.7
+2023-05-31,NVDA,NVIDIA Corporation,Technology,8.0
+2023-06-30,NVDA,NVIDIA Corporation,Technology,11.1
+2023-07-31,NVDA,NVIDIA Corporation,Technology,8.3
+2023-08-31,NVDA,NVIDIA Corporation,Technology,9.7
+2023-09-30,NVDA,NVIDIA Corporation,Technology,5.0
+2023-10-31,NVDA,NVIDIA Corporation,Technology,8.0
+2023-11-30,NVDA,NVIDIA Corporation,Technology,5.3
+2023-12-31,NVDA,NVIDIA Corporation,Technology,13.1
+2024-01-31,NVDA,NVIDIA Corporation,Technology,13.3
+2024-02-29,NVDA,NVIDIA Corporation,Technology,13.4
+2024-03-31,NVDA,NVIDIA Corporation,Technology,13.4
+2024-04-30,NVDA,NVIDIA Corporation,Technology,19.1
+2024-05-31,NVDA,NVIDIA Corporation,Technology,15.2
+2024-06-30,NVDA,NVIDIA Corporation,Technology,15.5
+2024-07-31,NVDA,NVIDIA Corporation,Technology,10.6
+2024-08-31,NVDA,NVIDIA Corporation,Technology,12.2
+2024-09-30,NVDA,NVIDIA Corporation,Technology,10.3
+2024-10-31,NVDA,NVIDIA Corporation,Technology,15.5
+2024-11-30,NVDA,NVIDIA Corporation,Technology,13.6
+2024-12-31,NVDA,NVIDIA Corporation,Technology,11.4
+2023-01-31,ORCL,Oracle Corporation,Technology,14.6
+2023-02-28,ORCL,Oracle Corporation,Technology,12.9
+2023-03-31,ORCL,Oracle Corporation,Technology,16.8
+2023-04-30,ORCL,Oracle Corporation,Technology,10.9
+2023-05-31,ORCL,Oracle Corporation,Technology,15.4
+2023-06-30,ORCL,Oracle Corporation,Technology,10.8
+2023-07-31,ORCL,Oracle Corporation,Technology,11.7
+2023-08-31,ORCL,Oracle Corporation,Technology,12.7
+2023-09-30,ORCL,Oracle Corporation,Technology,11.8
+2023-10-31,ORCL,Oracle Corporation,Technology,9.1
+2023-11-30,ORCL,Oracle Corporation,Technology,7.8
+2023-12-31,ORCL,Oracle Corporation,Technology,15.5
+2024-01-31,ORCL,Oracle Corporation,Technology,14.3
+2024-02-29,ORCL,Oracle Corporation,Technology,15.9
+2024-03-31,ORCL,Oracle Corporation,Technology,12.8
+2024-04-30,ORCL,Oracle Corporation,Technology,18.0
+2024-05-31,ORCL,Oracle Corporation,Technology,17.1
+2024-06-30,ORCL,Oracle Corporation,Technology,13.2
+2024-07-31,ORCL,Oracle Corporation,Technology,14.7
+2024-08-31,ORCL,Oracle Corporation,Technology,13.4
+2024-09-30,ORCL,Oracle Corporation,Technology,13.3
+2024-10-31,ORCL,Oracle Corporation,Technology,14.9
+2024-11-30,ORCL,Oracle Corporation,Technology,15.7
+2024-12-31,ORCL,Oracle Corporation,Technology,17.3
+2023-01-31,CRM,"Salesforce, Inc.",Technology,14.8
+2023-02-28,CRM,"Salesforce, Inc.",Technology,14.8
+2023-03-31,CRM,"Salesforce, Inc.",Technology,18.7
+2023-04-30,CRM,"Salesforce, Inc.",Technology,12.5
+2023-05-31,CRM,"Salesforce, Inc.",Technology,13.0
+2023-06-30,CRM,"Salesforce, Inc.",Technology,13.5
+2023-07-31,CRM,"Salesforce, Inc.",Technology,13.5
+2023-08-31,CRM,"Salesforce, Inc.",Technology,9.9
+2023-09-30,CRM,"Salesforce, Inc.",Technology,8.4
+2023-10-31,CRM,"Salesforce, Inc.",Technology,6.3
+2023-11-30,CRM,"Salesforce, Inc.",Technology,13.0
+2023-12-31,CRM,"Salesforce, Inc.",Technology,14.4
+2024-01-31,CRM,"Salesforce, Inc.",Technology,15.3
+2024-02-29,CRM,"Salesforce, Inc.",Technology,20.6
+2024-03-31,CRM,"Salesforce, Inc.",Technology,19.0
+2024-04-30,CRM,"Salesforce, Inc.",Technology,21.9
+2024-05-31,CRM,"Salesforce, Inc.",Technology,19.0
+2024-06-30,CRM,"Salesforce, Inc.",Technology,15.7
+2024-07-31,CRM,"Salesforce, Inc.",Technology,11.9
+2024-08-31,CRM,"Salesforce, Inc.",Technology,11.3
+2024-09-30,CRM,"Salesforce, Inc.",Technology,10.3
+2024-10-31,CRM,"Salesforce, Inc.",Technology,11.5
+2024-11-30,CRM,"Salesforce, Inc.",Technology,13.3
+2024-12-31,CRM,"Salesforce, Inc.",Technology,12.3
+2023-01-31,ADBE,Adobe Inc.,Technology,10.6
+2023-02-28,ADBE,Adobe Inc.,Technology,12.4
+2023-03-31,ADBE,Adobe Inc.,Technology,14.4
+2023-04-30,ADBE,Adobe Inc.,Technology,16.3
+2023-05-31,ADBE,Adobe Inc.,Technology,12.2
+2023-06-30,ADBE,Adobe Inc.,Technology,9.2
+2023-07-31,ADBE,Adobe Inc.,Technology,8.8
+2023-08-31,ADBE,Adobe Inc.,Technology,10.4
+2023-09-30,ADBE,Adobe Inc.,Technology,9.3
+2023-10-31,ADBE,Adobe Inc.,Technology,8.8
+2023-11-30,ADBE,Adobe Inc.,Technology,12.6
+2023-12-31,ADBE,Adobe Inc.,Technology,10.7
+2024-01-31,ADBE,Adobe Inc.,Technology,16.3
+2024-02-29,ADBE,Adobe Inc.,Technology,18.2
+2024-03-31,ADBE,Adobe Inc.,Technology,15.9
+2024-04-30,ADBE,Adobe Inc.,Technology,21.4
+2024-05-31,ADBE,Adobe Inc.,Technology,10.3
+2024-06-30,ADBE,Adobe Inc.,Technology,12.9
+2024-07-31,ADBE,Adobe Inc.,Technology,16.0
+2024-08-31,ADBE,Adobe Inc.,Technology,13.7
+2024-09-30,ADBE,Adobe Inc.,Technology,11.3
+2024-10-31,ADBE,Adobe Inc.,Technology,13.8
+2024-11-30,ADBE,Adobe Inc.,Technology,14.0
+2024-12-31,ADBE,Adobe Inc.,Technology,15.4
+2023-01-31,META,"Meta Platforms, Inc.",Communication Services,15.1
+2023-02-28,META,"Meta Platforms, Inc.",Communication Services,15.6
+2023-03-31,META,"Meta Platforms, Inc.",Communication Services,17.9
+2023-04-30,META,"Meta Platforms, Inc.",Communication Services,15.0
+2023-05-31,META,"Meta Platforms, Inc.",Communication Services,13.4
+2023-06-30,META,"Meta Platforms, Inc.",Communication Services,12.6
+2023-07-31,META,"Meta Platforms, Inc.",Communication Services,15.6
+2023-08-31,META,"Meta Platforms, Inc.",Communication Services,11.0
+2023-09-30,META,"Meta Platforms, Inc.",Communication Services,8.5
+2023-10-31,META,"Meta Platforms, Inc.",Communication Services,12.1
+2023-11-30,META,"Meta Platforms, Inc.",Communication Services,11.2
+2023-12-31,META,"Meta Platforms, Inc.",Communication Services,16.3
+2024-01-31,META,"Meta Platforms, Inc.",Communication Services,15.2
+2024-02-29,META,"Meta Platforms, Inc.",Communication Services,19.2
+2024-03-31,META,"Meta Platforms, Inc.",Communication Services,18.5
+2024-04-30,META,"Meta Platforms, Inc.",Communication Services,13.8
+2024-05-31,META,"Meta Platforms, Inc.",Communication Services,15.6
+2024-06-30,META,"Meta Platforms, Inc.",Communication Services,16.9
+2024-07-31,META,"Meta Platforms, Inc.",Communication Services,13.3
+2024-08-31,META,"Meta Platforms, Inc.",Communication Services,12.6
+2024-09-30,META,"Meta Platforms, Inc.",Communication Services,10.2
+2024-10-31,META,"Meta Platforms, Inc.",Communication Services,13.3
+2024-11-30,META,"Meta Platforms, Inc.",Communication Services,11.5
+2024-12-31,META,"Meta Platforms, Inc.",Communication Services,11.8
+2023-01-31,NFLX,"Netflix, Inc.",Communication Services,17.1
+2023-02-28,NFLX,"Netflix, Inc.",Communication Services,16.5
+2023-03-31,NFLX,"Netflix, Inc.",Communication Services,15.7
+2023-04-30,NFLX,"Netflix, Inc.",Communication Services,16.3
+2023-05-31,NFLX,"Netflix, Inc.",Communication Services,19.5
+2023-06-30,NFLX,"Netflix, Inc.",Communication Services,9.8
+2023-07-31,NFLX,"Netflix, Inc.",Communication Services,14.0
+2023-08-31,NFLX,"Netflix, Inc.",Communication Services,15.7
+2023-09-30,NFLX,"Netflix, Inc.",Communication Services,13.3
+2023-10-31,NFLX,"Netflix, Inc.",Communication Services,11.8
+2023-11-30,NFLX,"Netflix, Inc.",Communication Services,15.6
+2023-12-31,NFLX,"Netflix, Inc.",Communication Services,12.1
+2024-01-31,NFLX,"Netflix, Inc.",Communication Services,13.5
+2024-02-29,NFLX,"Netflix, Inc.",Communication Services,22.3
+2024-03-31,NFLX,"Netflix, Inc.",Communication Services,19.0
+2024-04-30,NFLX,"Netflix, Inc.",Communication Services,20.1
+2024-05-31,NFLX,"Netflix, Inc.",Communication Services,16.1
+2024-06-30,NFLX,"Netflix, Inc.",Communication Services,16.8
+2024-07-31,NFLX,"Netflix, Inc.",Communication Services,16.5
+2024-08-31,NFLX,"Netflix, Inc.",Communication Services,13.0
+2024-09-30,NFLX,"Netflix, Inc.",Communication Services,15.6
+2024-10-31,NFLX,"Netflix, Inc.",Communication Services,15.5
+2024-11-30,NFLX,"Netflix, Inc.",Communication Services,12.9
+2024-12-31,NFLX,"Netflix, Inc.",Communication Services,19.0
+2023-01-31,DIS,The Walt Disney Company,Communication Services,13.6
+2023-02-28,DIS,The Walt Disney Company,Communication Services,15.5
+2023-03-31,DIS,The Walt Disney Company,Communication Services,15.7
+2023-04-30,DIS,The Walt Disney Company,Communication Services,17.5
+2023-05-31,DIS,The Walt Disney Company,Communication Services,15.1
+2023-06-30,DIS,The Walt Disney Company,Communication Services,14.9
+2023-07-31,DIS,The Walt Disney Company,Communication Services,9.7
+2023-08-31,DIS,The Walt Disney Company,Communication Services,13.9
+2023-09-30,DIS,The Walt Disney Company,Communication Services,12.1
+2023-10-31,DIS,The Walt Disney Company,Communication Services,11.1
+2023-11-30,DIS,The Walt Disney Company,Communication Services,13.9
+2023-12-31,DIS,The Walt Disney Company,Communication Services,17.7
+2024-01-31,DIS,The Walt Disney Company,Communication Services,16.4
+2024-02-29,DIS,The Walt Disney Company,Communication Services,20.0
+2024-03-31,DIS,The Walt Disney Company,Communication Services,19.6
+2024-04-30,DIS,The Walt Disney Company,Communication Services,21.0
+2024-05-31,DIS,The Walt Disney Company,Communication Services,16.9
+2024-06-30,DIS,The Walt Disney Company,Communication Services,13.3
+2024-07-31,DIS,The Walt Disney Company,Communication Services,15.9
+2024-08-31,DIS,The Walt Disney Company,Communication Services,15.0
+2024-09-30,DIS,The Walt Disney Company,Communication Services,16.6
+2024-10-31,DIS,The Walt Disney Company,Communication Services,13.7
+2024-11-30,DIS,The Walt Disney Company,Communication Services,17.6
+2024-12-31,DIS,The Walt Disney Company,Communication Services,21.3

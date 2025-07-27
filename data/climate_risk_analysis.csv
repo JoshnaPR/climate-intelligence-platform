@@ -1,0 +1,11 @@
+symbol,name,sector,market_cap_billions,physical_risk,transition_risk,financial_resilience,composite_risk,risk_category
+AAPL,Apple Inc.,Technology,3194.468958208,23.8,20.0,95,18.5,Minimal Risk
+MSFT,Microsoft Corporation,Technology,3818.170351616,23.8,20.0,95,18.5,Minimal Risk
+GOOGL,Alphabet Inc.,Communication Services,2341.206228992,19.0,25.0,90,19.6,Minimal Risk
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,2457.059721216,47.5,50.0,70,45.0,Medium Risk
+TSLA,"Tesla, Inc.",Consumer Cyclical,1019.43574528,47.5,50.0,70,45.0,Medium Risk
+META,"Meta Platforms, Inc.",Communication Services,1791.912706048,19.0,25.0,90,19.6,Minimal Risk
+XOM,Exxon Mobil Corporation,Energy,475.784282112,85.0,90.0,40,82.0,Critical Risk
+CVX,Chevron Corporation,Energy,314.825310208,85.0,90.0,40,82.0,Critical Risk
+JPM,JPMorgan Chase & Co.,Financial Services,821.106376704,50.0,50.0,50,50.0,Medium Risk
+JNJ,Johnson & Johnson,Healthcare,405.32361216,50.0,50.0,50,50.0,Medium Risk

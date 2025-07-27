@@ -1,0 +1,31 @@
+symbol,name,sector,market_cap_billions,physical_risk,transition_risk,financial_resilience,composite_risk,risk_category,stranded_asset_risk,supply_chain_risk,regulatory_risk,carbon_intensity_category,esg_score,beta,volatility,ytd_return
+AAPL,Apple Inc.,Technology,3194.468958208,20.2,17.9,120.0,11.1,Minimal Risk,12.0,58.5,49.5,Low,50,1.199,7.1,-1.4
+MSFT,Microsoft Corporation,Technology,3818.170351616,20.2,14.5,120.0,9.6,Minimal Risk,10.0,58.5,49.5,Low,50,1.033,8.1,21.7
+GOOGL,Alphabet Inc.,Communication Services,2341.206228992,16.1,18.5,126.5,8.7,Minimal Risk,10.0,45.0,60.5,Low,50,1.005,7.7,16.2
+NVDA,NVIDIA Corporation,Technology,4231.248740352,21.2,13.9,120.0,9.7,Minimal Risk,10.0,58.5,49.5,Low,50,2.131,13.1,53.5
+ORCL,Oracle Corporation,Technology,688.500375552,21.8,18.0,120.0,11.7,Minimal Risk,12.0,58.5,49.5,Low,50,1.394,16.5,78.2
+CRM,"Salesforce, Inc.",Technology,257.269153792,21.8,14.1,110.0,12.0,Minimal Risk,10.0,58.5,49.5,Low,50,1.366,11.4,3.0
+ADBE,Adobe Inc.,Technology,157.267902464,23.0,15.2,121.0,10.7,Minimal Risk,10.0,58.5,49.5,Low,50,1.509,14.5,-31.7
+META,"Meta Platforms, Inc.",Communication Services,1791.912706048,16.1,19.1,115.0,11.2,Minimal Risk,10.0,45.0,60.5,Low,50,1.284,11.4,53.6
+NFLX,"Netflix, Inc.",Communication Services,501.62089984,18.4,20.7,115.0,12.8,Minimal Risk,10.0,45.0,60.5,Low,50,1.596,21.3,87.0
+DIS,The Walt Disney Company,Communication Services,218.372702208,17.5,19.6,109.4,13.0,Minimal Risk,10.0,45.0,60.5,Low,50,1.561,11.3,36.2
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,2457.059721216,40.4,50.2,80.1,40.7,Medium Risk,30.0,45.0,55.0,Medium,50,1.337,9.8,26.8
+TSLA,"Tesla, Inc.",Consumer Cyclical,1019.43574528,40.4,46.7,76.3,39.9,Medium Risk,30.0,45.0,55.0,Medium,50,2.398,22.7,43.8
+HD,"The Home Depot, Inc.",Consumer Cyclical,373.436284928,43.7,60.0,69.0,48.5,Medium Risk,36.0,45.0,55.0,Medium,50,1.004,6.0,6.9
+MCD,McDonald's Corporation,Consumer Cyclical,213.415903232,43.7,50.0,75.0,42.8,Medium Risk,30.0,45.0,55.0,Medium,50,0.527,4.6,21.2
+NKE,"NIKE, Inc.",Consumer Cyclical,112.64315392,43.7,53.3,67.0,45.9,Medium Risk,30.0,45.0,55.0,Medium,50,1.254,11.4,7.4
+WMT,Walmart Inc.,Consumer Defensive,777.851568128,43.7,52.6,72.7,44.4,Medium Risk,30.0,45.0,55.0,Medium,50,0.677,10.4,41.1
+PG,The Procter & Gamble Company,Consumer Defensive,371.14068992,43.7,51.5,75.0,43.5,Medium Risk,30.0,45.0,55.0,Medium,50,0.403,3.0,-4.0
+KO,The Coca-Cola Company,Consumer Defensive,297.68482816,43.7,60.0,82.5,45.8,Medium Risk,36.0,45.0,55.0,Medium,50,0.45,5.5,6.2
+PEP,"PepsiCo, Inc.",Consumer Defensive,196.394532864,43.7,60.0,68.2,48.6,Medium Risk,36.0,45.0,55.0,Medium,50,0.461,9.2,-13.9
+JNJ,Johnson & Johnson,Healthcare,405.32361216,26.2,25.7,110.0,18.8,Minimal Risk,15.0,49.5,71.5,Low,50,0.4,4.1,8.2
+UNH,UnitedHealth Group Incorporated,Healthcare,254.96076288,26.2,26.4,99.4,21.2,Low Risk,15.0,49.5,71.5,Low,50,0.457,21.8,-49.7
+PFE,Pfizer Inc.,Healthcare,140.94032896,26.2,25.9,107.4,19.4,Minimal Risk,15.0,49.5,71.5,Low,50,0.496,7.1,-13.8
+ABBV,AbbVie Inc.,Healthcare,336.110583808,26.2,30.0,92.3,24.2,Low Risk,18.0,49.5,71.5,Low,50,0.481,5.9,6.4
+MRK,"Merck & Co., Inc.",Healthcare,212.709343232,26.2,26.1,110.0,18.9,Minimal Risk,15.0,49.5,71.5,Low,50,0.4,13.2,-30.1
+TMO,Thermo Fisher Scientific Inc.,Healthcare,180.562935808,26.2,26.0,100.0,20.9,Low Risk,15.0,49.5,71.5,Low,50,0.772,14.3,-21.0
+JPM,JPMorgan Chase & Co.,Financial Services,821.106376704,43.7,50.0,93.5,39.1,Medium Risk,30.0,45.0,55.0,Medium,50,1.094,10.8,43.9
+BAC,Bank of America Corporation,Financial Services,360.307163136,43.7,50.0,82.5,41.3,Medium Risk,30.0,45.0,55.0,Medium,50,1.31,8.0,19.1
+V,Visa Inc.,Financial Services,697.47769344,46.0,50.5,85.0,41.8,Medium Risk,30.0,45.0,55.0,Medium,50,0.922,10.4,38.6
+MA,Mastercard Incorporated,Financial Services,515.9903232,46.0,60.0,85.0,46.1,Medium Risk,36.0,45.0,55.0,Medium,50,1.025,6.8,30.4
+WFC,Wells Fargo & Company,Financial Services,271.541583872,43.7,50.0,82.5,41.3,Medium Risk,30.0,45.0,55.0,Medium,50,1.157,13.2,43.0

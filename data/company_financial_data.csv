@@ -1,0 +1,11 @@
+symbol,name,sector,industry,market_cap,revenue,employees,country,website,esg_score
+AAPL,Apple Inc.,Technology,Consumer Electronics,3194468958208,400366010368,164000,United States,https://www.apple.com,50
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,3818170351616,270010007552,228000,United States,https://www.microsoft.com,50
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,2341206228992,371399000064,187103,United States,https://abc.xyz,50
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2457059721216,650313007104,1560000,United States,https://www.aboutamazon.com,50
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,1019435745280,92719996928,125665,United States,https://www.tesla.com,50
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1791912706048,170359996416,76834,United States,https://investor.atmeta.com,50
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,475784282112,341088010240,61000,United States,https://corporate.exxonmobil.com,50
+CVX,Chevron Corporation,Energy,Oil & Gas Integrated,314825310208,195112992768,45298,United States,https://www.chevron.com,50
+JPM,JPMorgan Chase & Co.,Financial Services,Banks - Diversified,821106376704,163644997632,317160,United States,https://www.jpmorganchase.com,50
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,405323612160,90626998272,138100,United States,https://www.jnj.com,50
