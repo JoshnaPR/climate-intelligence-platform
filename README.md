@@ -6,7 +6,7 @@
 
 
 
-\[!\[Streamlit App](https://static.streamlit.io/badges/streamlit\_badge\_black\_white.svg)](your-app-url)
+\[!\[Streamlit App](https://climate-intelligence-platform-joshnapr.streamlit.app/)
 
 \[!\[Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
 
