@@ -97,13 +97,13 @@ streamlit run dashboard.py
 
 ### Sector Risk Rankings
 
-1. ** Consumer Defensive ** : 45.6 avg risk
-2. ** Consumer Cyclical ** : 43.6 avg risk
-3. ** Financial Services ** : 41.9 avg risk
-4. ** Healthcare ** : 20.6 avg risk
-5. ** Technology ** : 10.8 avg risk
+1. **Consumer Defensive** : 45.6 avg risk
+2. **Consumer Cyclical** : 43.6 avg risk
+3. **Financial Services** : 41.9 avg risk
+4. **Healthcare** : 20.6 avg risk
+5. **Technology** : 10.8 avg risk
 
-## Key Findings
+### Key Findings
 
 - 16.7% of analyzed companies classified as high risk
 - Technology companies demonstrate superior climate resilience
