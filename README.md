@@ -77,8 +77,9 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
-### Usage
-## Dashboard Navigation
+## Usage
+
+### Dashboard Navigation
 
 1. Sector Filtering - Focus on specific industries
 2. Risk Level Analysis - Filter by risk categories
@@ -86,48 +87,48 @@ streamlit run dashboard.py
 4. Time Series Trends - View risk evolution over time
 5. Data Export - Download analysis results
 
-## Key Metrics
-Composite Risk Score: 0-100 overall climate risk assessment
-Stranded Asset Risk: Probability of asset value impairment
-Supply Chain Risk: Climate vulnerability in business networks
-Regulatory Risk: Policy and compliance exposure
+### Key Metrics
+- Composite Risk Score: 0-100 overall climate risk assessment
+- Stranded Asset Risk: Probability of asset value impairment
+- Supply Chain Risk: Climate vulnerability in business networks
+- Regulatory Risk: Policy and compliance exposure
 
 ## Results & Analysis
 
-###Sector Risk Rankings
+### Sector Risk Rankings
 
-Consumer Defensive: 45.6 avg risk
-Consumer Cyclical: 43.6 avg risk
-Financial Services: 41.9 avg risk
-Healthcare: 20.6 avg risk
-Technology: 10.8 avg risk
+1. ** Consumer Defensive ** : 45.6 avg risk
+2. ** Consumer Cyclical ** : 43.6 avg risk
+3. ** Financial Services ** : 41.9 avg risk
+4. ** Healthcare ** : 20.6 avg risk
+5. ** Technology ** : 10.8 avg risk
 
 ## Key Findings
 
-16.7% of analyzed companies classified as high risk
-Technology companies demonstrate superior climate resilience
-ESG scores strongly correlate with lower climate risk
-Market capitalization provides resilience advantages
+- 16.7% of analyzed companies classified as high risk
+- Technology companies demonstrate superior climate resilience
+- ESG scores strongly correlate with lower climate risk
+- Market capitalization provides resilience advantages
 
-##Business Applications
+## Business Applications
 
 ### Investment Management
 
-Portfolio risk assessment and optimization
-ESG integration strategies
-Sector allocation decisions
-Risk-adjusted performance measurement
+- Portfolio risk assessment and optimization
+- ESG integration strategies
+- Sector allocation decisions
+- Risk-adjusted performance measurement
 
 ### Risk Management
 
-Climate scenario planning
-Stress testing frameworks
-Regulatory compliance support
-Stakeholder reporting
+- Climate scenario planning
+- Stress testing frameworks
+- Regulatory compliance support
+- Stakeholder reporting
 
 ### Future Enhancements
 
-Real-time API Integration - Live climate data feeds
-Machine Learning Models - Predictive risk forecasting
-Portfolio Optimization - Climate-aware allocation algorithms
-Regulatory Compliance - TCFD and EU Taxonomy reporting
+- Real-time API Integration - Live climate data feeds
+- Machine Learning Models - Predictive risk forecasting
+- Portfolio Optimization - Climate-aware allocation algorithms
+- Regulatory Compliance - TCFD and EU Taxonomy reporting
